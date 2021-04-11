@@ -1,5 +1,4 @@
-{-# LANGUAGE OverloadedStrings #-}   -- Add at the top of the file
-
+{-# LANGUAGE OverloadedStrings #-}
 
 module Lib
     ( someFunc
