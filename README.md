@@ -6,3 +6,5 @@
     Playing around with attoparsec. Takes a few seconds to run, but would have taken a few minutes to write a faster one
 --- Day 4: Repose Record ---
     This took ages. Nothing difficult, just felt like a lot of shuffling around
+--- Day 5: Alchemical Reduction ---
+    There are only 26 answers, just try them all
